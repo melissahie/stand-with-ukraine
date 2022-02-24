@@ -1,4 +1,10 @@
-# Stand with Ukraine - Social Media assets
+# Stand with Ukraine - How to help
+
+1. Donate directly to the Ukrainian army ([Facebook post by Oksana Marakova](https://www.facebook.com/oksana.markarova/posts/4897914630285286), Ukraine Ambassador in the US)
+2. Make noise on your social media
+3. Check for facts before you post and be aware of fake news
+
+# Social Media assets
 
 ### How to use:
 1. Select which social media asset you need from the list below
