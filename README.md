@@ -1,7 +1,8 @@
 # Stand with Ukraine Social Media assets
 
-1. Select which social media
-2. Hit Download
+How to:
+1. Select which social media asset you need
+2. Hit Download link right below the asset, or click on the image
 3. Save the asset into your phone / computer
 4. Use them!
 
