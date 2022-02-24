@@ -1,4 +1,9 @@
-# Stand with Ukraine
+# Stand with Ukraine Social Media assets
+
+1. Select which social media
+2. Hit Download
+3. Save the asset into your phone / computer
+4. Use them!
 
 ## Facebook Cover Photo
 [Download](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/fb-cover.png)
