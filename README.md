@@ -8,31 +8,41 @@
 
 ### How to use:
 1. Select which social media asset you need from the list below
-2. Hit the "Download" link right below the asset, or click on the image
+2. Hit the "Download" link right below the asset, or click on the image, which will open up the asset file
 3. Save the asset into your phone / computer
 4. Use them and spread the word!
 
 ## Facebook Cover Photo
-[Download](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/fb-cover.png)
+[Download Facebook Cover Photo](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/fb-cover.png)
 
 ![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/fb-cover.png)
 
-## Instagram Post / Facebook Profile Photo
-[Download](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-post.png)
+## Instagram Square Post / Facebook Profile Photo
+[Download Instagram Square Post / Facebook Profile Photo](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-post.png)
 
 ![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-post.png)
 
+## Instagram Rectangular Post / Facebook Profile Photo
+[Download Instagram Rectangular Post / Facebook Profile Photo](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-post-rect.png)
+
+![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-post-rect.png)
+
+## Facebook Post
+[Download Facebook Post](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/facebook-post.png)
+
+![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/facebook-post.png)
+
 ## Instagram Story
-[Download](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-story.png)
+[Download Instagram Story](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-story.png)
 
 ![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-story.png)
 
 ## Twitter Header
-[Download](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/twitter-header.png)
+[Download Twitter Header](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/twitter-header.png)
 
 ![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/twitter-header.png)
 
 ## Linkedin Cover
-[Download](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/linkedin-cover.png)
+[Download Linkedin Cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/linkedin-cover.png)
 
 ![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/linkedin-cover.png)
