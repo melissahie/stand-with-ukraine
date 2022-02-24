@@ -17,7 +17,7 @@
 
 ![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/instagram-post.png)
 
-# Twitter Header
+## Twitter Header
 [Download](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/twitter-header.png)
 
 ![fb-cover](https://raw.githubusercontent.com/melissahie/stand-with-ukraine/main/twitter-header.png)
