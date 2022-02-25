@@ -1,8 +1,10 @@
 # Stand with Ukraine - How to help
 
-1. Donate directly to the Ukrainian army ([Facebook post by Oksana Marakova](https://www.facebook.com/oksana.markarova/posts/4897914630285286), Ukraine Ambassador in the US)
-2. Make noise on your social media
-3. Check for facts before you post and be aware of fake news
+1. Donate:
+- Directly to the Ukrainian army via [Facebook post by Oksana Marakova](https://www.facebook.com/oksana.markarova/posts/4897914630285286), Ukraine Ambassador in the US
+- Assistance for Medical and Logistic support of the armed forces of Ukraine via [Ukraine Now](https://ukraine.ua/news/support-the-armed-forces-of-ukraine/)
+3. Make noise on social media
+4. Check for facts before you post and be aware of fake news
 
 # Social Media assets
 
