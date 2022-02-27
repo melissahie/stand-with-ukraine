@@ -6,6 +6,17 @@
 3. Make noise on social media
 4. Check for facts before you post and be aware of fake news
 
+# github badges
+![stand with Ukraine](https://badgen.net/badge/stand%20with/UKRAINE/?color=0057B8&labelColor=FFD700)
+```
+![stand with Ukraine](https://badgen.net/badge/stand%20with/UKRAINE/?color=0057B8&labelColor=FFD700)
+```
+
+![stand with Ukraine](https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700)
+```
+![stand with Ukraine](https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700)
+```
+
 # Social Media assets
 
 ### How to use:
